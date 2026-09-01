@@ -1,4 +1,3 @@
-# Machine-Learning-Based-Buyer-Segmentation-Investment-Profiling
 # 🏢 ML-Based Buyer Segmentation & Investment Profiling for Real Estate
 
 A machine learning project that discovers hidden buyer segments in real estate transaction data using K-Means and Hierarchical clustering, with an interactive Streamlit dashboard for live analytics.
